@@ -16,4 +16,4 @@ We may collect anonymous statistics about your usage such as error and crash rep
 
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you any concern, feel free to [contact us](mail:qrcodescannerappspprt@gmail.com)
+If you any concern, feel free to [contact us](mailto:qrcodescannerappspprt@gmail.com)
